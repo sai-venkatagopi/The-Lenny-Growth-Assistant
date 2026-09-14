@@ -2,7 +2,6 @@
 
 A full-stack AI growth assistant grounded in Lenny-style transcript material and customer discovery signals. The app combines a FastAPI backend, PostgreSQL + pgvector, a React frontend, and optional local/cloud model providers to power grounded Q&A, artifact generation, and session-based workflows.
 
-![Growth Studio UI](docs/ui-preview.png)
 
 ## Architecture Overview
 
